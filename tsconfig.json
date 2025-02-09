@@ -1,11 +1,9 @@
 {
   "compilerOptions": {
-    "compilerOptions": {
       "outDir": "./dist",
       "rootDir": "./src",
       "module": "CommonJS",
       "target": "ES6"
-    }
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
     /* Projects */
