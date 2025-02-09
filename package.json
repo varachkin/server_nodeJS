@@ -4,7 +4,7 @@
   "main": "src/index.ts",
   "license": "MIT",
   "scripts": {
-    "wach": "tsc -w",
+    "watch": "tsc -w",
     "dev": "nodemon ./dist/index.js"
   },
   "dependencies": {
